@@ -1,0 +1,9 @@
+entidades\Pelicula.class
+entidades\Sala.class
+cliente\Cliente.class
+principal\Test.class
+entidades\Funcion.class
+entidades\Asiento.class
+servidor\Servidor.class
+controlador\Controlador.class
+servidor\ServidorHilo.class
